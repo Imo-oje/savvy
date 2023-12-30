@@ -5,6 +5,7 @@ import { RiArrowDropDownLine } from "react-icons/ri";
 import { IoMdRose } from "react-icons/io";
 import { GrLanguage } from "react-icons/gr";
 import { IoMenu } from "react-icons/io5";
+import "./nav.scss";
 
 function Navbar() {
   let LogoIconStyles = { color: "#E5C232", fontSize: "1.5em" };
